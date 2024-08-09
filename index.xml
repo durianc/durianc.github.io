@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Weiyu Chen&#39;s Personal Website</title>
+        <link>https://durianc.github.io/</link>
+        <description>Recent content on Weiyu Chen&#39;s Personal Website</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language><atom:link href="https://durianc.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Weiyu Chen&#39;s Personal Page</title>
+        <link>https://durianc.github.io/about/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://durianc.github.io/about/</guid>
+        <description>&lt;h1 id=&#34;welcome-to-my-website&#34;&gt;Welcome to My Website!
+&lt;/h1&gt;&lt;h2 id=&#34;about-me&#34;&gt;About Me
+&lt;/h2&gt;&lt;p&gt;Hello! I&amp;rsquo;m Weiyu Chen, a third-year computer science student at &lt;strong&gt;Fuzhou University&lt;/strong&gt;. I am passionate about &lt;strong&gt;deep learning and artificial intelligence&lt;/strong&gt;. I&amp;rsquo;m preparing to apply for a master&amp;rsquo;s program in computer science to further my knowledge and research in these cutting-edge fields.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Interests&lt;/strong&gt;:  Deep Learning, Artificial Intelligence, Recommender System&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Career Goals&lt;/strong&gt;: To publish high-quality research papers in reputable journals and conferences while pursuing a master&amp;rsquo;s degree in computer science, focusing on advancing my expertise in deep learning and its applications.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;education&#34;&gt;Education
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;B.S. in Computer Science&lt;/strong&gt;, &lt;strong&gt;Fuzhou University&lt;/strong&gt;, 2021 - 2025
+&lt;ul&gt;
+&lt;li&gt;Relevant Courses: Advanced Artificial Intelligence, Technology of Data Mining, Pattern Recognition, Computer Graphics, Computer Organization and Architecture, Operating Systems&lt;/li&gt;
+&lt;li&gt;Awards and Honors (During School)
+&lt;ul&gt;
+&lt;li&gt;Twice awarded the Third-Class Scholarship of the School&lt;/li&gt;
+&lt;li&gt;Received the Progress Award once&lt;/li&gt;
+&lt;li&gt;Recognized as an Outstanding Individual in the College for three academic years (2021, 2022, 2023)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;skills&#34;&gt;Skills
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Programming Languages:&lt;/strong&gt; C/C++, Python&lt;br&gt;
+&lt;strong&gt;Deep Learning Frameworks:&lt;/strong&gt; TensorFlow, PyTorch&lt;br&gt;
+&lt;strong&gt;Machine Learning Libraries:&lt;/strong&gt; Scikit-learn&lt;br&gt;
+&lt;strong&gt;Data Analysis Tools:&lt;/strong&gt; NumPy, Pandas, Matplotlib&lt;br&gt;
+&lt;strong&gt;Big Data Technologies:&lt;/strong&gt; Spark, Flink, Kafka, Cassandra&lt;br&gt;
+&lt;strong&gt;Backend Frameworks and Tools:&lt;/strong&gt; Flask, FastAPI&lt;br&gt;
+&lt;strong&gt;Frontend Technologies:&lt;/strong&gt; Vue3, Ajax&lt;br&gt;
+&lt;strong&gt;Databases:&lt;/strong&gt; MySQL, Neo4j&lt;br&gt;
+&lt;strong&gt;Version Control:&lt;/strong&gt; Git&lt;/p&gt;
+&lt;h2 id=&#34;research-and-publications&#34;&gt;Research and Publications
+&lt;/h2&gt;&lt;h3 id=&#34;brain-tumor-diagnosis-with-deep-separable-convolutional-networks&#34;&gt;Brain Tumor Diagnosis with Deep Separable Convolutional Networks
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Description&lt;/strong&gt;: Researched and developed a model for brain tumor classification, achieving a 97% accuracy rate using deep separable convolutional networks and attention mechanisms. The work was recognized and accepted as a paper in an EI conference.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Contribution&lt;/strong&gt;: Served as a co-first author and the corresponding author for the published paper.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;projects&#34;&gt;Projects
+&lt;/h2&gt;&lt;h3 id=&#34;project-1-neural-graph-collaborative-filtering-based-parking-space-recommendation-system&#34;&gt;Project 1: Neural Graph Collaborative Filtering-based Parking Space Recommendation System
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Description&lt;/strong&gt;: Developed a parking space recommendation system based on neural graph collaborative filtering to provide personalized parking space suggestions.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Technologies Used&lt;/strong&gt;: PyTorch, Neo4j, Pandas, Flask+Vue&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Contribution&lt;/strong&gt;: Project leader responsible for overseeing system development and the implementation of the recommendation algorithm.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;project-2-video-identity-recognition&#34;&gt;Project 2: Video Identity Recognition
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Description&lt;/strong&gt;: Worked on the integration of face recognition and person re-identification technologies to enhance the accuracy of identification in surveillance systems.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Core Idea&lt;/strong&gt;: Integration of Face Recognition and Person Re-identification&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Contribution&lt;/strong&gt;: Engaged in the research and development of the integrated identity recognition system, improving the system&amp;rsquo;s capability to identify individuals across varying conditions.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;internship-experience&#34;&gt;Internship Experience
+&lt;/h2&gt;&lt;h3 id=&#34;ai-development-engineer-data-security-product-department-china-telecom-fufu-information-technology-co-ltd&#34;&gt;AI Development Engineer, Data Security Product Department, China Telecom FuFu Information Technology Co., Ltd.
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Duration&lt;/strong&gt;: July 2024 - Present&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;: Research User and Entity Behavior Analytics (UEBA) systems and develop machine learning algorithms within them.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
