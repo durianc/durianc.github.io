@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Weiyu Chen&#39;s Personal Website</title>
-        <link>https://durianc.github.io/</link>
+        <link>http://localhost:1313/</link>
         <description>Recent content on Weiyu Chen&#39;s Personal Website</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language><atom:link href="https://durianc.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <language>en-us</language><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Home</title>
-        <link>https://durianc.github.io/</link>
+        <link>http://localhost:1313/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://durianc.github.io/</guid>
+        <guid>http://localhost:1313/</guid>
         <description>&lt;h1 id=&#34;welcome-to-my-website&#34;&gt;Welcome to My Website!
 &lt;/h1&gt;&lt;h2 id=&#34;about-me&#34;&gt;About Me
 &lt;/h2&gt;&lt;p&gt;Hello! I&amp;rsquo;m Weiyu Chen, a third-year computer science student at &lt;strong&gt;Fuzhou University&lt;/strong&gt;. I am passionate about &lt;strong&gt;deep learning and artificial intelligence&lt;/strong&gt;. I&amp;rsquo;m preparing to apply for a master&amp;rsquo;s program in computer science to further my knowledge and research in these cutting-edge fields.&lt;/p&gt;
