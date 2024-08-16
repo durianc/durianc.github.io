@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Weiyu Chen&#39;s Personal Website</title>
-        <link>http://localhost:1313/</link>
+        <link>https://durianc.github.io/</link>
         <description>Recent content on Weiyu Chen&#39;s Personal Website</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
+        <language>en-us</language><atom:link href="https://durianc.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Home</title>
-        <link>http://localhost:1313/</link>
+        <link>https://durianc.github.io/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/</guid>
+        <guid>https://durianc.github.io/</guid>
         <description>&lt;h1 id=&#34;welcome-to-my-website&#34;&gt;Welcome to My Website!
 &lt;/h1&gt;&lt;h2 id=&#34;about-me&#34;&gt;About Me
 &lt;/h2&gt;&lt;p&gt;Hello! I&amp;rsquo;m Weiyu Chen, a third-year computer science student at &lt;strong&gt;Fuzhou University&lt;/strong&gt;. I am passionate about &lt;strong&gt;deep learning and artificial intelligence&lt;/strong&gt;. I&amp;rsquo;m preparing to apply for a master&amp;rsquo;s program in computer science to further my knowledge and research in these cutting-edge fields.&lt;/p&gt;
@@ -61,6 +61,10 @@
 &lt;li&gt;&lt;strong&gt;Description&lt;/strong&gt;: Worked on the integration of face recognition and person re-identification technologies to enhance the accuracy of identification in surveillance systems.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Core Idea&lt;/strong&gt;: Integration of Face Recognition and Person Re-identification&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Contribution&lt;/strong&gt;: Engaged in the research and development of the integrated identity recognition system, improving the system&amp;rsquo;s capability to identify individuals across varying conditions.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;project-3-traffic-scene-object-detection-based-on-mmdetection&#34;&gt;Project 3: Traffic Scene Object Detection Based on MMDetection
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Description&lt;/strong&gt;: The core objective of the project is to accurately and comprehensively detect all specified objects in traffic scene images by making adjustments in areas such as model selection, data augmentation, and loss function optimization.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;internship-experience&#34;&gt;Internship Experience
 &lt;/h2&gt;&lt;h3 id=&#34;ai-development-engineer-data-security-product-department-china-telecom-fufu-information-technology-co-ltd&#34;&gt;AI Development Engineer, Data Security Product Department, China Telecom FuFu Information Technology Co., Ltd.
