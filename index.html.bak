@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-    <head><meta charset='utf-8'>
+    <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset='utf-8'>
 <meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content="">
 <title>Home</title>
 
-<link rel='canonical' href='https://durianc.github.io/'>
+<link rel='canonical' href='http://localhost:1313/'>
 
 <link rel="stylesheet" href="/scss/style.min.e8c7fca7d1c9294aa7a4f3426c225ee26540f7d94e39be0b5a4a5c8a49ca5a25.css"><meta property='og:title' content="Weiyu Chen's Personal Website">
 <meta property='og:description' content="">
-<meta property='og:url' content='https://durianc.github.io/'>
+<meta property='og:url' content='http://localhost:1313/'>
 <meta property='og:site_name' content='Weiyu Chen&#39;s Personal Website'>
 <meta property='og:type' content='article'><meta property='article:section' content='' />
 <meta name="twitter:title" content="Weiyu Chen's Personal Website">
@@ -150,7 +150,7 @@
 
 
                 <time class="article-time--reading">
-                    2 minute read
+                    3 minute read
                 </time>
             </div>
         
@@ -167,7 +167,7 @@
     
     <h1 id="welcome-to-my-website">Welcome to My Website!
 </h1><h2 id="about-me">About Me
-</h2><p>Hello! I&rsquo;m Weiyu Chen, a third-year computer science student at <strong>Fuzhou University</strong>. I am passionate about <strong>deep learning and artificial intelligence</strong>. I&rsquo;m preparing to apply for a master&rsquo;s program in computer science to further my knowledge and research in these cutting-edge fields.</p>
+</h2><p>Hello! I&rsquo;m <strong>Weiyu Chen</strong>, a third-year computer science student at <strong>Fuzhou University</strong>. I am passionate about <strong>deep learning and artificial intelligence</strong>. I&rsquo;m preparing to apply for a master&rsquo;s program in computer science to further my knowledge and research in these cutting-edge fields.</p>
 <ul>
 <li><strong>Interests</strong>:  Deep Learning, Artificial Intelligence, Recommender System</li>
 <li><strong>Career Goals</strong>: To publish high-quality research papers in reputable journals and conferences while pursuing a master&rsquo;s degree in computer science, focusing on advancing my expertise in deep learning and its applications.</li>
@@ -202,6 +202,8 @@
 </h3><ul>
 <li><strong>Description</strong>: Researched and developed a model for brain tumor classification, achieving a 97% accuracy rate using deep separable convolutional networks and attention mechanisms. The work was recognized and accepted as a paper in an EI conference.</li>
 <li><strong>Contribution</strong>: Served as a co-first author and the corresponding author for the published paper.</li>
+<li><strong>Citation</strong>: Chen, W.; Sun, P.; Zhang, Y. (2024). <em>A brain tumor diagnosis approach based on deep separable convolutional networks and attention mechanisms.</em> Applied and Computational Engineering, 67, 60-69. <a class="link" href="https://doi.org/10.54254/2755-2721/78/20240629"  target="_blank" rel="noopener"
+    >DOI: 10.54254/2755-2721/78/20240629</a></li>
 </ul>
 <h2 id="projects">Projects
 </h2><h3 id="project-1-neural-graph-collaborative-filtering-based-parking-space-recommendation-system">Project 1: Neural Graph Collaborative Filtering-based Parking Space Recommendation System
@@ -216,11 +218,19 @@
 <li><strong>Core Idea</strong>: Integration of Face Recognition and Person Re-identification</li>
 <li><strong>Contribution</strong>: Engaged in the research and development of the integrated identity recognition system, improving the system&rsquo;s capability to identify individuals across varying conditions.</li>
 </ul>
+<h3 id="project-3-traffic-scene-object-detection-based-on-mmdetection">Project 3: Traffic Scene Object Detection Based on MMDetection
+</h3><ul>
+<li><strong>Description</strong>: The core objective of the project is to accurately and comprehensively detect all specified objects in traffic scene images by making adjustments in areas such as model selection, data augmentation, and loss function optimization.</li>
+</ul>
 <h2 id="internship-experience">Internship Experience
 </h2><h3 id="ai-development-engineer-data-security-product-department-china-telecom-fufu-information-technology-co-ltd">AI Development Engineer, Data Security Product Department, China Telecom FuFu Information Technology Co., Ltd.
 </h3><ul>
 <li><strong>Duration</strong>: July 2024 - Present</li>
 <li><strong>Responsibilities</strong>: Research User and Entity Behavior Analytics (UEBA) systems and develop machine learning algorithms within them.</li>
+</ul>
+<h2 id="contact">Contact
+</h2><ul>
+<li><strong>Email</strong>: <a class="link" href="mailto:chenweiyu0315@foxmail.com" >chenweiyu0315@foxmail.com</a> or <a class="link" href="mailto:durian_cwy@163.com" >durian_cwy@163.com</a></li>
 </ul>
 
 </section>
