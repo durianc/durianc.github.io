@@ -15,7 +15,7 @@
 &lt;/h1&gt;&lt;h2 id=&#34;about-me&#34;&gt;About Me
 &lt;/h2&gt;&lt;p&gt;Hello! I&amp;rsquo;m &lt;strong&gt;Weiyu Chen&lt;/strong&gt;, a third-year computer science student at &lt;strong&gt;Fuzhou University&lt;/strong&gt;. I am passionate about &lt;strong&gt;deep learning and artificial intelligence&lt;/strong&gt;. I&amp;rsquo;m preparing to apply for a master&amp;rsquo;s program in computer science to further my knowledge and research in these cutting-edge fields.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Interests&lt;/strong&gt;:  Deep Learning, Artificial Intelligence, Recommender System&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Interests&lt;/strong&gt;:  Deep Learning, Recommender System, Medical Image Analysis, Face Recognition, Person Re-ID&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Career Goals&lt;/strong&gt;: To publish high-quality research papers in reputable journals and conferences while pursuing a master&amp;rsquo;s degree in computer science, focusing on advancing my expertise in deep learning and its applications.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;education&#34;&gt;Education
@@ -46,7 +46,7 @@
 &lt;h2 id=&#34;research-and-publications&#34;&gt;Research and Publications
 &lt;/h2&gt;&lt;h3 id=&#34;brain-tumor-diagnosis-with-deep-separable-convolutional-networks&#34;&gt;Brain Tumor Diagnosis with Deep Separable Convolutional Networks
 &lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Description&lt;/strong&gt;: Researched and developed a model for brain tumor classification, achieving a 97% accuracy rate using deep separable convolutional networks and attention mechanisms. The work was recognized and accepted as a paper in an EI conference.&lt;br&gt;
+&lt;li&gt;&lt;strong&gt;Description&lt;/strong&gt;: Researched and developed a model for brain tumor classification, achieving a &lt;strong&gt;97.41%&lt;/strong&gt; accuracy rate using deep separable convolutional networks and attention mechanisms.&lt;br&gt;
 &lt;strong&gt;Chen, W.&lt;/strong&gt;, Sun, P., &amp;amp; Zhang, Y. (2024). A brain tumor diagnosis approach based on deep separable convolutional networks and attention mechanisms. &lt;em&gt;Applied and Computational Engineering&lt;/em&gt;, 67, 60-69. &lt;a class=&#34;link&#34; href=&#34;https://doi.org/10.54254/2755-2721/78/20240629&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;doi: 10.54254/2755-2721/78/20240629&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -61,11 +61,21 @@
 &lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Description&lt;/strong&gt;: Worked on the integration of face recognition and person re-identification technologies to enhance the accuracy of identification in surveillance systems.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Core Idea&lt;/strong&gt;: Integration of Face Recognition and Person Re-identification&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Contribution&lt;/strong&gt;: Engaged in the research and development of the integrated identity recognition system, improving the system&amp;rsquo;s capability to identify individuals across varying conditions.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Contribution&lt;/strong&gt;: Conducted research and development of the integrated identity recognition system, enhancing its ability to identify individuals under varying conditions. Plan to integrate this method into a Multimodal Big-data Analysis System for Research Efficiency, aiming to implement it in a laboratory setting to replace fingerprint clock-in with an automatic camera-based clock-in function.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;project-3-traffic-scene-object-detection-based-on-mmdetection&#34;&gt;Project 3: Traffic Scene Object Detection Based on MMDetection
 &lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Description&lt;/strong&gt;: The core objective of the project is to accurately and comprehensively detect all specified objects in traffic scene images by making adjustments in areas such as model selection, data augmentation, and loss function optimization.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;project-4-single-page-application-for-object-detection-model-evaluation-and-result-display-based-on-pyscriptvue&#34;&gt;Project 4: Single-Page Application for Object Detection Model Evaluation and Result Display Based on PyScript+Vue
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Description&lt;/strong&gt;: Developed a pure front-end single-page application that uses PyScript to execute Python code and implements the mAP value evaluation function of the object detection model.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Designed System&lt;/strong&gt;: &lt;a class=&#34;link&#34; href=&#34;https://icnc-fskd.fzu.edu.cn/hwd/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;project-5-campus-network-management-platform-based-on-sdn-global-control&#34;&gt;Project 5: Campus Network Management Platform Based on SDN Global Control
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Description&lt;/strong&gt;: Utilized Python and flow table issuance for precise control over specific data packets, thereby simulating the management of university campus networks to meet the needs of network management, measurement, and analysis processes.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;internship-experience&#34;&gt;Internship Experience
 &lt;/h2&gt;&lt;h3 id=&#34;ai-development-engineer-data-security-product-department-china-telecom-fufu-information-technology-co-ltd&#34;&gt;AI Development Engineer, Data Security Product Department, China Telecom FuFu Information Technology Co., Ltd.
