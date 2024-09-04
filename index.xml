@@ -44,7 +44,12 @@
 &lt;strong&gt;Databases:&lt;/strong&gt; MySQL, Neo4j&lt;br&gt;
 &lt;strong&gt;Version Control:&lt;/strong&gt; Git&lt;/p&gt;
 &lt;h2 id=&#34;research-and-publications&#34;&gt;Research and Publications
-&lt;/h2&gt;&lt;h3 id=&#34;brain-tumor-diagnosis-with-deep-separable-convolutional-networks&#34;&gt;Brain Tumor Diagnosis with Deep Separable Convolutional Networks
+&lt;/h2&gt;&lt;h3 id=&#34;masked-theme-specific-named-entity-recognition-assisted-with-large-language-models&#34;&gt;Masked Theme-Specific Named Entity Recognition Assisted with Large Language Models
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Description&lt;/strong&gt;: Co-authored a paper that proposes an effective two-stage approach for named entity recognition using masked theme-specific methods associated with large language models. This approach leverages an unsupervised mechanism rather than a supervised one, enhancing the efficiency of NER tasks.&lt;br&gt;
+Zhao, Y., &lt;strong&gt;Chen, W.&lt;/strong&gt;, Liao, L., &amp;amp; Liu, J. (2024). Masked theme-specific named entity recognition assisted with large language models. &lt;em&gt;IEEE International Conference on Knowledge Graph&lt;/em&gt;, (submitted).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;brain-tumor-diagnosis-with-deep-separable-convolutional-networks&#34;&gt;Brain Tumor Diagnosis with Deep Separable Convolutional Networks
 &lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Description&lt;/strong&gt;: Researched and developed a model for brain tumor classification, achieving a &lt;strong&gt;97.41%&lt;/strong&gt; accuracy rate using deep separable convolutional networks and attention mechanisms.&lt;br&gt;
 &lt;strong&gt;Chen, W.&lt;/strong&gt;, Sun, P., &amp;amp; Zhang, Y. (2024). A brain tumor diagnosis approach based on deep separable convolutional networks and attention mechanisms. &lt;em&gt;Applied and Computational Engineering&lt;/em&gt;, 67, 60-69. &lt;a class=&#34;link&#34; href=&#34;https://doi.org/10.54254/2755-2721/78/20240629&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
