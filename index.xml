@@ -6,26 +6,27 @@
         <description>Recent content on Weiyu Chen&#39;s Personal Website</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Home</title>
+        <title>Weiyu Chen</title>
         <link>http://localhost:1313/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>http://localhost:1313/</guid>
-        <description>&lt;h1 id=&#34;welcome-to-my-website&#34;&gt;Welcome to My Website!
+        <description>&lt;h1 id=&#34;welcome&#34;&gt;Welcome!
 &lt;/h1&gt;&lt;h2 id=&#34;about-me&#34;&gt;About Me
-&lt;/h2&gt;&lt;p&gt;Hello! I&amp;rsquo;m &lt;strong&gt;Weiyu Chen&lt;/strong&gt;, a third-year computer science student at &lt;strong&gt;Fuzhou University&lt;/strong&gt;. I am passionate about &lt;strong&gt;deep learning and artificial intelligence&lt;/strong&gt;. I&amp;rsquo;m preparing to apply for a master&amp;rsquo;s program in computer science to further my knowledge and research in these cutting-edge fields.&lt;/p&gt;
+&lt;/h2&gt;&lt;p&gt;Hello! I&amp;rsquo;m &lt;strong&gt;Weiyu Chen&lt;/strong&gt;, a fourth-year computer science student at &lt;strong&gt;Fuzhou University&lt;/strong&gt;. I am passionate about &lt;strong&gt;deep learning and artificial intelligence&lt;/strong&gt;. I&amp;rsquo;m currently preparing to apply for a master&amp;rsquo;s program in computer science to further deepen my knowledge and research in these cutting-edge fields.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Interests&lt;/strong&gt;:  Recommender System, Medical Image Analysis, Face Recognition &amp;amp; Person Re-ID&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Career Goals&lt;/strong&gt;: To publish high-quality research papers in reputable journals and conferences while pursuing a master&amp;rsquo;s degree in computer science, focusing on advancing my expertise in deep learning and its applications.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Interests&lt;/strong&gt;: Recommender Systems, Medical Image Analysis, Face Recognition &amp;amp; Person Re-ID&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Career Goals&lt;/strong&gt;: To publish high-quality research papers in reputable journals and conferences while pursuing a master&amp;rsquo;s degree in computer science, with a focus on advancing my expertise in deep learning and its applications.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;education&#34;&gt;Education
 &lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;B.S. in Computer Science&lt;/strong&gt;, &lt;strong&gt;Fuzhou University&lt;/strong&gt;, 2021 - 2025
 &lt;ul&gt;
 &lt;li&gt;Relevant Courses: Advanced Artificial Intelligence, Technology of Data Mining, Pattern Recognition, Computer Graphics, Computer Organization and Architecture, Operating Systems&lt;/li&gt;
-&lt;li&gt;Awards and Honors (During School)
+&lt;li&gt;Awards and Honors:
 &lt;ul&gt;
-&lt;li&gt;Twice awarded the Third-Class Scholarship of the School&lt;/li&gt;
+&lt;li&gt;Awarded the &lt;strong&gt;Second-Class Scholarship&lt;/strong&gt; of the university&lt;/li&gt;
+&lt;li&gt;Twice awarded the &lt;strong&gt;Third-Class Scholarship&lt;/strong&gt; of the School&lt;/li&gt;
 &lt;li&gt;Received the Progress Award once&lt;/li&gt;
 &lt;li&gt;Recognized as an Outstanding Individual in the College for three academic years (2021, 2022, 2023)&lt;/li&gt;
 &lt;/ul&gt;
@@ -47,12 +48,12 @@
 &lt;/h2&gt;&lt;h3 id=&#34;masked-theme-specific-named-entity-recognition-assisted-with-large-language-models&#34;&gt;Masked Theme-Specific Named Entity Recognition Assisted with Large Language Models
 &lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Description&lt;/strong&gt;: Co-authored a paper that proposes an effective two-stage approach for named entity recognition using masked theme-specific methods associated with large language models. This approach leverages an unsupervised mechanism rather than a supervised one, enhancing the efficiency of NER tasks.&lt;br&gt;
-Y. Zhao, &lt;strong&gt;W. Chen&lt;/strong&gt;, L. Liao, and J. Liu, &amp;ldquo;Masked Theme-specific Named Entity Recognition Assisted with Large Language Models,&amp;rdquo; in &lt;em&gt;Proc. IEEE Int. Conf. on Knowledge Graph&lt;/em&gt;, 2024, submitted.&lt;/li&gt;
+Y. Zhao, &lt;strong&gt;W. Chen&lt;/strong&gt;, L. Liao, and J. Liu, &amp;ldquo;Masked Theme-specific Named Entity Recognition Assisted with Large Language Models,&amp;rdquo; submitted to &lt;em&gt;2024 IEEE International Conference on Computing (ICOCO)&lt;/em&gt;, 2024.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;brain-tumor-diagnosis-with-deep-separable-convolutional-networks&#34;&gt;Brain Tumor Diagnosis with Deep Separable Convolutional Networks
 &lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Description&lt;/strong&gt;: Researched and developed a model for brain tumor classification, achieving a &lt;strong&gt;97.41%&lt;/strong&gt; accuracy rate using deep separable convolutional networks and attention mechanisms.&lt;br&gt;
-&lt;strong&gt;W. Chen&lt;/strong&gt;, P. Sun, and Y. Zhang, &amp;ldquo;A brain tumor diagnosis approach based on deep separable convolutional networks and attention mechanisms,&amp;rdquo; &lt;em&gt;Applied and Computational Engineering&lt;/em&gt;, vol. 67, no. 1, pp. 60-69, Jul. 2024, doi: &lt;a class=&#34;link&#34; href=&#34;https://doi.org/10.54254/2755-2721/67/20240629&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+&lt;strong&gt;W. Chen&lt;/strong&gt;, P. Sun, and Y. Zhang, &amp;ldquo;A brain tumor diagnosis approach based on deep separable convolutional networks and attention mechanisms,&amp;rdquo; &lt;em&gt;ACE&lt;/em&gt;, vol. 67, no. 1, pp. 60-69, Jul. 2024, doi: &lt;a class=&#34;link&#34; href=&#34;https://doi.org/10.54254/2755-2721/67/20240629&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;10.54254/2755-2721/67/20240629&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;projects&#34;&gt;Projects
