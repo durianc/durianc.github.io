@@ -34,27 +34,32 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;skills&#34;&gt;Skills
-&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Programming Languages:&lt;/strong&gt; C/C++, Python&lt;br&gt;
-&lt;strong&gt;Deep Learning Frameworks:&lt;/strong&gt; TensorFlow, PyTorch&lt;br&gt;
-&lt;strong&gt;Machine Learning Libraries:&lt;/strong&gt; Scikit-learn&lt;br&gt;
-&lt;strong&gt;Data Analysis Tools:&lt;/strong&gt; NumPy, Pandas, Matplotlib&lt;br&gt;
-&lt;strong&gt;Big Data Technologies:&lt;/strong&gt; Spark, Flink, Kafka, Cassandra&lt;br&gt;
-&lt;strong&gt;Backend Frameworks and Tools:&lt;/strong&gt; Flask, FastAPI&lt;br&gt;
-&lt;strong&gt;Frontend Technologies:&lt;/strong&gt; Vue3, Ajax&lt;br&gt;
-&lt;strong&gt;Databases:&lt;/strong&gt; MySQL, Neo4j&lt;br&gt;
-&lt;strong&gt;Version Control:&lt;/strong&gt; Git&lt;/p&gt;
 &lt;h2 id=&#34;research-and-publications&#34;&gt;Research and Publications
 &lt;/h2&gt;&lt;h3 id=&#34;masked-theme-specific-named-entity-recognition-assisted-with-large-language-models&#34;&gt;Masked Theme-Specific Named Entity Recognition Assisted with Large Language Models
 &lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Description&lt;/strong&gt;: Co-authored a paper that proposes an effective two-stage approach for named entity recognition using masked theme-specific methods associated with large language models. This approach leverages an unsupervised mechanism rather than a supervised one, enhancing the efficiency of NER tasks.&lt;br&gt;
-Ying Zhao, &lt;strong&gt;Weiyu Chen&lt;/strong&gt;, Longlong Liao, et al., &amp;ldquo;Masked Theme-Specific Named Entity Recognition Assisted with Large Language Models,&amp;rdquo; &lt;em&gt;2024 IEEE International Conference on Computing (ICOCO 2024)&lt;/em&gt;, Accepted.&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;: Co-authored a paper that proposes an effective two-stage approach for named entity recognition using masked theme-specific methods associated with large language models. This approach leverages an unsupervised mechanism rather than a supervised one, enhancing the efficiency of NER tasks.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Citation&lt;/strong&gt;:&lt;br&gt;
+Ying Zhao, &lt;strong&gt;Weiyu Chen&lt;/strong&gt;, Longlong Liao, et al.,&lt;br&gt;
+&lt;em&gt;&amp;ldquo;Masked Theme-Specific Named Entity Recognition Assisted with Large Language Models,&amp;rdquo;&lt;/em&gt;&lt;br&gt;
+&lt;em&gt;2024 IEEE International Conference on Computing (ICOCO 2024)&lt;/em&gt;, Accepted.&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;brain-tumor-diagnosis-with-deep-separable-convolutional-networks&#34;&gt;Brain Tumor Diagnosis with Deep Separable Convolutional Networks
 &lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Description&lt;/strong&gt;: Researched and developed a model for brain tumor classification, achieving a &lt;strong&gt;97.41%&lt;/strong&gt; accuracy rate using deep separable convolutional networks and attention mechanisms.&lt;br&gt;
-&lt;strong&gt;Weiyu Chen&lt;/strong&gt;, Peiyao Sun, and Yujia Zhang, &amp;ldquo;A brain tumor diagnosis approach based on deep separable convolutional networks and attention mechanisms,&amp;rdquo; &lt;em&gt;Applied and Computational Engineering&lt;/em&gt;, vol. 67, no. 1, pp. 60-69, Jul. 2024, doi: &lt;a class=&#34;link&#34; href=&#34;https://doi.org/10.54254/2755-2721/67/20240629&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;10.54254/2755-2721/67/20240629&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;: Researched and developed a model for brain tumor classification, achieving a &lt;strong&gt;97.41%&lt;/strong&gt; accuracy rate using deep separable convolutional networks and attention mechanisms.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Citation&lt;/strong&gt;:&lt;br&gt;
+&lt;strong&gt;Weiyu Chen&lt;/strong&gt;, Peiyao Sun, and Yujia Zhang,&lt;br&gt;
+&lt;em&gt;&amp;ldquo;A Brain Tumor Diagnosis Approach Based on Deep Separable Convolutional Networks and Attention Mechanisms,&amp;rdquo;&lt;/em&gt;&lt;br&gt;
+&lt;em&gt;Applied and Computational Engineering&lt;/em&gt;, vol. 67, no. 1, pp. 60-69, Jul. 2024,&lt;br&gt;
+doi: &lt;a class=&#34;link&#34; href=&#34;https://doi.org/10.54254/2755-2721/67/20240629&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;10.54254/2755-2721/67/20240629&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;projects&#34;&gt;Projects
 &lt;/h2&gt;&lt;h3 id=&#34;project-1-neural-graph-collaborative-filtering-based-parking-space-recommendation-system&#34;&gt;Project 1: Neural Graph Collaborative Filtering-based Parking Space Recommendation System
@@ -110,6 +115,16 @@ Ying Zhao, &lt;strong&gt;Weiyu Chen&lt;/strong&gt;, Longlong Liao, et al., &amp;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
+&lt;h2 id=&#34;skills&#34;&gt;Skills
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Programming Languages:&lt;/strong&gt; C/C++, Python&lt;br&gt;
+&lt;strong&gt;Deep Learning Frameworks:&lt;/strong&gt; TensorFlow, PyTorch&lt;br&gt;
+&lt;strong&gt;Machine Learning Libraries:&lt;/strong&gt; Scikit-learn&lt;br&gt;
+&lt;strong&gt;Data Analysis Tools:&lt;/strong&gt; NumPy, Pandas, Matplotlib&lt;br&gt;
+&lt;strong&gt;Big Data Technologies:&lt;/strong&gt; Spark, Flink, Kafka, Cassandra&lt;br&gt;
+&lt;strong&gt;Backend Frameworks and Tools:&lt;/strong&gt; Flask, FastAPI&lt;br&gt;
+&lt;strong&gt;Frontend Technologies:&lt;/strong&gt; Vue3, Ajax&lt;br&gt;
+&lt;strong&gt;Databases:&lt;/strong&gt; MySQL, Neo4j&lt;br&gt;
+&lt;strong&gt;Version Control:&lt;/strong&gt; Git&lt;/p&gt;
 &lt;h2 id=&#34;contact&#34;&gt;Contact
 &lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Email&lt;/strong&gt;: &lt;a class=&#34;link&#34; href=&#34;mailto:chenweiyu0315@foxmail.com&#34; &gt;chenweiyu0315@foxmail.com&lt;/a&gt; or &lt;a class=&#34;link&#34; href=&#34;mailto:durian_cwy@163.com&#34; &gt;durian_cwy@163.com&lt;/a&gt;&lt;/li&gt;
