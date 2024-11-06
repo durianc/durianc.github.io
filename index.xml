@@ -27,8 +27,8 @@
 &lt;ul&gt;
 &lt;li&gt;Awarded the &lt;strong&gt;Second-Class Scholarship&lt;/strong&gt; of the university&lt;/li&gt;
 &lt;li&gt;Twice awarded the &lt;strong&gt;Third-Class Scholarship&lt;/strong&gt; of the School&lt;/li&gt;
-&lt;li&gt;Received the Progress Award once&lt;/li&gt;
-&lt;li&gt;Recognized as an Outstanding Individual in the College for three academic years (2021, 2022, 2023)&lt;/li&gt;
+&lt;li&gt;Received the &lt;strong&gt;Progress Award&lt;/strong&gt; once&lt;/li&gt;
+&lt;li&gt;Recognized as an &lt;strong&gt;Outstanding Individual&lt;/strong&gt; in the College for three academic years (2021, 2022, 2023)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -48,12 +48,12 @@
 &lt;/h2&gt;&lt;h3 id=&#34;masked-theme-specific-named-entity-recognition-assisted-with-large-language-models&#34;&gt;Masked Theme-Specific Named Entity Recognition Assisted with Large Language Models
 &lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Description&lt;/strong&gt;: Co-authored a paper that proposes an effective two-stage approach for named entity recognition using masked theme-specific methods associated with large language models. This approach leverages an unsupervised mechanism rather than a supervised one, enhancing the efficiency of NER tasks.&lt;br&gt;
-Y. Zhao, &lt;strong&gt;W. Chen&lt;/strong&gt;, L. Liao, and J. Liu, &amp;ldquo;Masked Theme-specific Named Entity Recognition Assisted with Large Language Models,&amp;rdquo; submitted to &lt;em&gt;2024 IEEE International Conference on Computing (ICOCO)&lt;/em&gt;, 2024.&lt;/li&gt;
+Ying Zhao, &lt;strong&gt;Weiyu Chen&lt;/strong&gt;, Longlong Liao, et al., &amp;ldquo;Masked Theme-Specific Named Entity Recognition Assisted with Large Language Models,&amp;rdquo; &lt;em&gt;2024 IEEE International Conference on Computing (ICOCO 2024)&lt;/em&gt;, Accepted.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;brain-tumor-diagnosis-with-deep-separable-convolutional-networks&#34;&gt;Brain Tumor Diagnosis with Deep Separable Convolutional Networks
 &lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Description&lt;/strong&gt;: Researched and developed a model for brain tumor classification, achieving a &lt;strong&gt;97.41%&lt;/strong&gt; accuracy rate using deep separable convolutional networks and attention mechanisms.&lt;br&gt;
-&lt;strong&gt;W. Chen&lt;/strong&gt;, P. Sun, and Y. Zhang, &amp;ldquo;A brain tumor diagnosis approach based on deep separable convolutional networks and attention mechanisms,&amp;rdquo; &lt;em&gt;ACE&lt;/em&gt;, vol. 67, no. 1, pp. 60-69, Jul. 2024, doi: &lt;a class=&#34;link&#34; href=&#34;https://doi.org/10.54254/2755-2721/67/20240629&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+&lt;strong&gt;Weiyu Chen&lt;/strong&gt;, Peiyao Sun, and Yujia Zhang, &amp;ldquo;A brain tumor diagnosis approach based on deep separable convolutional networks and attention mechanisms,&amp;rdquo; &lt;em&gt;Applied and Computational Engineering&lt;/em&gt;, vol. 67, no. 1, pp. 60-69, Jul. 2024, doi: &lt;a class=&#34;link&#34; href=&#34;https://doi.org/10.54254/2755-2721/67/20240629&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;10.54254/2755-2721/67/20240629&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;projects&#34;&gt;Projects
@@ -86,8 +86,29 @@ Y. Zhao, &lt;strong&gt;W. Chen&lt;/strong&gt;, L. Liao, and J. Liu, &amp;ldquo;M
 &lt;h2 id=&#34;internship-experience&#34;&gt;Internship Experience
 &lt;/h2&gt;&lt;h3 id=&#34;ai-development-engineer-data-security-product-department-china-telecom-fufu-information-technology-co-ltd&#34;&gt;AI Development Engineer, Data Security Product Department, China Telecom FuFu Information Technology Co., Ltd.
 &lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Duration&lt;/strong&gt;: July 2024 - Present&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;: Research User and Entity Behavior Analytics (UEBA) systems and develop machine learning algorithms within them.&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: July 2024 - November 2024&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Researched the architecture of the User &amp;amp; Entity Behavior Analytics (UEBA) system&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Analyzed technologies used in modern UEBA systems&lt;/li&gt;
+&lt;li&gt;Explored technical implementation methods and application scenarios&lt;/li&gt;
+&lt;li&gt;Summarized effective strategies and improvement methods&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Generated pre-training data for large language model-based Q&amp;amp;A systems&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Focused on security assessments of new internet technologies and services&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Expanded knowledge of common machine learning algorithms&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Emphasized practical applications in network traffic processing and log auditing&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;contact&#34;&gt;Contact
 &lt;/h2&gt;&lt;ul&gt;
