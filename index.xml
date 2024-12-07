@@ -11,9 +11,8 @@
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>http://localhost:1313/</guid>
-        <description>&lt;h1 id=&#34;welcome&#34;&gt;Welcome!
-&lt;/h1&gt;&lt;h2 id=&#34;about-me&#34;&gt;About Me
-&lt;/h2&gt;&lt;p&gt;Hello! I&amp;rsquo;m &lt;strong&gt;Weiyu Chen&lt;/strong&gt;, a fourth-year computer science student at &lt;strong&gt;Fuzhou University&lt;/strong&gt;. I am passionate about &lt;strong&gt;deep learning and artificial intelligence&lt;/strong&gt;. I&amp;rsquo;m currently preparing to apply for a master&amp;rsquo;s program in computer science to further deepen my knowledge and research in these cutting-edge fields.&lt;/p&gt;
+        <description>&lt;h2 id=&#34;about-me&#34;&gt;About Me
+&lt;/h2&gt;&lt;p&gt;Hello! I&amp;rsquo;m &lt;strong&gt;Weiyu Chen&lt;/strong&gt;, a fourth-year computer science student at &lt;strong&gt;Fuzhou University&lt;/strong&gt;. I have been admitted to the MSc in &lt;strong&gt;Engineering in Robotics and Intelligent Systems&lt;/strong&gt; at &lt;strong&gt;The University of Hong Kong&lt;/strong&gt;, beginning in the fall of 2025.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Interests&lt;/strong&gt;: Recommender Systems, Medical Image Analysis, Face Recognition &amp;amp; Person Re-ID&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Career Goals&lt;/strong&gt;: To publish high-quality research papers in reputable journals and conferences while pursuing a master&amp;rsquo;s degree in computer science, with a focus on advancing my expertise in deep learning and its applications.&lt;/li&gt;
@@ -64,15 +63,15 @@ doi: &lt;a class=&#34;link&#34; href=&#34;https://doi.org/10.54254/2755-2721/67/
 &lt;h2 id=&#34;projects&#34;&gt;Projects
 &lt;/h2&gt;&lt;h3 id=&#34;project-1-neural-graph-collaborative-filtering-based-parking-space-recommendation-system&#34;&gt;Project 1: Neural Graph Collaborative Filtering-based Parking Space Recommendation System
 &lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Description&lt;/strong&gt;: Developed a parking space recommendation system based on neural graph collaborative filtering to provide personalized parking space suggestions.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Description&lt;/strong&gt;: This project focused on developing a parking space recommendation system that utilizes &lt;strong&gt;neural graph collaborative filtering&lt;/strong&gt; technology. By integrating user data and parking behavior patterns into a graph database, the system provides personalized parking space suggestions, enhancing user convenience and optimizing parking space usage.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Technologies Used&lt;/strong&gt;: PyTorch, Neo4j, Pandas, Flask+Vue&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Contribution&lt;/strong&gt;: Project leader responsible for overseeing system development and the implementation of the recommendation algorithm.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Contribution&lt;/strong&gt;: As the &lt;strong&gt;project leader&lt;/strong&gt;, I oversaw the development process from initial design to final implementation. My responsibilities included guiding the architecture of the system, managing the development team, and ensuring that the recommendation algorithm met the project&amp;rsquo;s objectives and performance criteria.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;project-2-video-identity-recognition&#34;&gt;Project 2: Video Identity Recognition
 &lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Description&lt;/strong&gt;: Worked on the integration of face recognition and person re-identification technologies to enhance the accuracy of identification in surveillance systems.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Description&lt;/strong&gt;: Engineered an advanced identity recognition system that leverages real-time video streams, utilizing the &lt;strong&gt;YOLOv7 model&lt;/strong&gt; for precise human detection and subsequent image segmentation. The system combines state-of-the-art &lt;strong&gt;Face Recognition&lt;/strong&gt; and &lt;strong&gt;Person Re-ID algorithms&lt;/strong&gt; to achieve a remarkable identification accuracy of &lt;strong&gt;98%&lt;/strong&gt;.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Core Idea&lt;/strong&gt;: Integration of Face Recognition and Person Re-identification&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Contribution&lt;/strong&gt;: Conducted research and development of the integrated identity recognition system, enhancing its ability to identify individuals under varying conditions. Plan to integrate this method into a Multimodal Big-data Analysis System for Research Efficiency, aiming to implement it in a laboratory setting to replace fingerprint clock-in with an automatic camera-based clock-in function.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Contribution&lt;/strong&gt;: Key innovations include the implementation of &lt;strong&gt;standing detection&lt;/strong&gt; and &lt;strong&gt;specifically delineated check-in zones&lt;/strong&gt; to mitigate interference from unauthorized entities and minimize erroneous operations. Plans are underway to incorporate this system into the &amp;ldquo;&lt;em&gt;Multimodal Big Data-Driven Platform for Research Efficiency Analysis&lt;/em&gt;&amp;rdquo;, aiming to facilitate a non-contact, camera-based authentication module in laboratory settings.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;project-3-traffic-scene-object-detection-based-on-mmdetection&#34;&gt;Project 3: Traffic Scene Object Detection Based on MMDetection
 &lt;/h3&gt;&lt;ul&gt;
@@ -84,47 +83,14 @@ doi: &lt;a class=&#34;link&#34; href=&#34;https://doi.org/10.54254/2755-2721/67/
 &lt;li&gt;&lt;strong&gt;Designed System&lt;/strong&gt;: &lt;a class=&#34;link&#34; href=&#34;https://icnc-fskd.fzu.edu.cn/hwd/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Link&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;project-5-campus-network-management-platform-based-on-sdn-global-control&#34;&gt;Project 5: Campus Network Management Platform Based on SDN Global Control
-&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Description&lt;/strong&gt;: Utilized Python and flow table issuance for precise control over specific data packets, thereby simulating the management of university campus networks to meet the needs of network management, measurement, and analysis processes.&lt;/li&gt;
-&lt;/ul&gt;
 &lt;h2 id=&#34;internship-experience&#34;&gt;Internship Experience
 &lt;/h2&gt;&lt;h3 id=&#34;ai-development-engineer-data-security-product-department-china-telecom-fufu-information-technology-co-ltd&#34;&gt;AI Development Engineer, Data Security Product Department, China Telecom FuFu Information Technology Co., Ltd.
 &lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: July 2024 - November 2024&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Researched the architecture of the User &amp;amp; Entity Behavior Analytics (UEBA) system&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Analyzed technologies used in modern UEBA systems&lt;/li&gt;
-&lt;li&gt;Explored technical implementation methods and application scenarios&lt;/li&gt;
-&lt;li&gt;Summarized effective strategies and improvement methods&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Duration&lt;/strong&gt;: July 2024 - November 2024&lt;/li&gt;
+&lt;li&gt;Researched the architecture of the User &amp;amp; Entity Behavior Analytics (UEBA) system&lt;/li&gt;
+&lt;li&gt;Generated pre-training data for large language model-based Q&amp;amp;A systems&lt;/li&gt;
+&lt;li&gt;Expanded knowledge of common machine learning algorithms&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Generated pre-training data for large language model-based Q&amp;amp;A systems&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Focused on security assessments of new internet technologies and services&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Expanded knowledge of common machine learning algorithms&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Emphasized practical applications in network traffic processing and log auditing&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;skills&#34;&gt;Skills
-&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Programming Languages:&lt;/strong&gt; C/C++, Python&lt;br&gt;
-&lt;strong&gt;Deep Learning Frameworks:&lt;/strong&gt; TensorFlow, PyTorch&lt;br&gt;
-&lt;strong&gt;Machine Learning Libraries:&lt;/strong&gt; Scikit-learn&lt;br&gt;
-&lt;strong&gt;Data Analysis Tools:&lt;/strong&gt; NumPy, Pandas, Matplotlib&lt;br&gt;
-&lt;strong&gt;Big Data Technologies:&lt;/strong&gt; Spark, Flink, Kafka, Cassandra&lt;br&gt;
-&lt;strong&gt;Backend Frameworks and Tools:&lt;/strong&gt; Flask, FastAPI&lt;br&gt;
-&lt;strong&gt;Frontend Technologies:&lt;/strong&gt; Vue3, Ajax&lt;br&gt;
-&lt;strong&gt;Databases:&lt;/strong&gt; MySQL, Neo4j&lt;br&gt;
-&lt;strong&gt;Version Control:&lt;/strong&gt; Git&lt;/p&gt;
 &lt;h2 id=&#34;contact&#34;&gt;Contact
 &lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Email&lt;/strong&gt;: &lt;a class=&#34;link&#34; href=&#34;mailto:chenweiyu0315@foxmail.com&#34; &gt;chenweiyu0315@foxmail.com&lt;/a&gt; or &lt;a class=&#34;link&#34; href=&#34;mailto:durian_cwy@163.com&#34; &gt;durian_cwy@163.com&lt;/a&gt;&lt;/li&gt;
