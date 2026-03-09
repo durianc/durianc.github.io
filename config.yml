@@ -1,5 +1,5 @@
-baseURL: "https://pascalmichaillat.org/hugo-website/" 
-title: Moritz-Maria von Igelfeld
+baseURL: "https://durianc.github.io/"
+title: Weiyu Chen
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -10,27 +10,10 @@ pagination:
 taxonomies:
     tag: tags
 
-menu:
-    main:
-        - name: Books
-          url: books/
-          weight: 5 
-        - name: Papers
-          url: papers/
-          weight: 2
-        - name: Courses
-          url: courses/
-          weight: 3
-        - name: Data
-          url: data/
-          weight: 4 
-        - name: Blog
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-          weight: 6
 
 params:
-    description: "This website hosts Moritz-Maria von Igelfeld's research papers, books, course materials, data, curriculum vitae, and contact information."
-    author: Moritz-Maria von Igelfeld
+    description: "This website hosts Weiyu Chen's education information, research projects, papers, intern experiences, skills, and interests."
+    author: Weiyu Chen
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
@@ -54,50 +37,36 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Professor Dr von Igelfeld
-          subtitle: "I am a Professor in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dieter Vogelsang in Munich, and later a second assistant of Professor Walter Schoeffler-Henschell at the University of Wiesbaden."
+          title: Weiyu Chen
+          subtitle: "MSc student at the University of Hong Kong working on embodied AI and multimodal large models. My interests include causal world models, vision–language–action (VLA) systems, visual understanding, and knowledge-enhanced large models such as retrieval-augmented generation (RAG)."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
           buttons:
-            - name: Papers
-              url: papers/
-            - name: Data
-              url: data/
-            - name: Books
-              url: books/
-            - name: Courses
-              url: courses/
-            - name: Tags
-              url: tags/
-            - name: Archive
-              url: archive/
-            - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+            - name: About
+              url: about/
+            - name: Education
+              url: education/
+            - name: Publications
+              url: publications/
+            - name: Projects
+              url: projects/
+            - name: Internship
+              url: internship/
+            - name: Skills
+              url: skills/
 
     socialIcons:
-        - name: CV
-          url: cv.pdf
-        - name: Email
-          url: mailto:igelfeld@regensburg.edu
-        - name: Zoom
-          url: https://www.zoom.us/my/igelfeld
-        - name: Location
-          url: location/
-        - name: Office Hours
-          url: officehours/
-        - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
-        - name: GitHub
-          url: https://github.com/pmichaillat
-        - name: Substack
-          url: https://pmichaillat.substack.com
-        - name: YouTube
-          url: https://www.youtube.com/@pmichaillat
-        - name: Twitter
-          url: https://x.com/pmichaillat
-        - name: Bluesky
-          url: https://bsky.app/profile/pmichaillat.bsky.social
+          - name: Email
+            url: contact/
+          - name: Google Scholar
+            url: https://scholar.google.com/citations?user=9Aq6J7IAAAAJ
+
+          - name: ORCID
+            url: https://orcid.org/0009-0002-5245-762X
+
+          - name: OpenReview
+            url: https://openreview.net/profile?id=%7EWeiyu_Chen4
 
     assets:
         disableScrollBarStyle: true
@@ -105,7 +74,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
+      text: "Weiyu Chen"
       icon: favicon.ico
       iconHeight: 18
 
